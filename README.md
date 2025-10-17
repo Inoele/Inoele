@@ -21,10 +21,10 @@
 ‎☕ Aku percaya setiap desain bisa membawa suasana hati yang tenang dan bahagia.  
 ‎🎀 Inspirasiku datang dari mimpi, langit senja, dan keindahan hal-hal kecil.  
 ‎
-‎ *“Aku ingin setiap karyaku terasa seperti pelukan lembut dalam bentuk visual.”* 💫
-‎
-‎
-‎💭 Vibe & Energi  
+<‎ *“Aku ingin setiap karyaku terasa seperti pelukan lembut dalam bentuk visual.”* 💫
+‎---
+
+‎### 💭 Vibe & Energi  
 ‎🎀 Estetika pastel  
 ‎🌷 Energi lembut dan positif  
 ‎🩰 Keseimbangan antara logika dan perasaan  
