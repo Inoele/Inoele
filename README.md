@@ -5,7 +5,7 @@
 ‎
 ‎<img src="https://raw.githubusercontent.com/username/banner/main/dreamy-cloud.gif" width="100%" alt="soft pastel dreamy banner"/>
 ‎
-‎# 💕 Hai, aku <span style="color:#ffc5d3;">Inas Samia Ashalina</span> 💕  
+‎ 💕 Hai, aku <span style="color:#ffc5d3;">Inas Samia Ashalina</span> 💕  
 ‎🌸 *Desainer Kreatif | Pencinta Estetika | Pemimpi Digital* 🌸  
 ‎
 ‎<p align="center">
