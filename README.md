@@ -53,10 +53,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Inoele/Inoele/main/assets/music-card.svg" alt="Now playing — Semua Aku Dirayakan" width="700" />
-
----
-
 ### 📈 Statistik GitHub-ku  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Inoele&show_icons=true&title_color=ffc5d3&text_color=f8a8b6&icon_color=fdb7c0&bg_color=141321&hide_border=true" width="49%"/>
