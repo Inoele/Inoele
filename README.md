@@ -53,13 +53,7 @@
 
 ---
 
-<p align="center">
-  <a href="https://youtu.be/CptnLrdF3_E" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/Inoele/Inoele/main/assets/music-card.svg" alt="Now playing — Semua Aku Dirayakan" width="700" />
-  </a>
-  <br>
-  <em>click to listen ♡</em>
-</p>
+<img src="https://raw.githubusercontent.com/Inoele/Inoele/main/assets/music-card.svg" alt="Now playing — Semua Aku Dirayakan" width="700" />
 
 ---
 
