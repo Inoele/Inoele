@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://youtu.be/CptnLrdF3_E" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/Inoele/Inoel/main/assets/music-card.svg" alt="Now playing — Semua Aku Dirayakan" width="700" />
+    <img src="https://raw.githubusercontent.com/Inoele/assets/music-card.svg/main/assets/music-card.svg" alt="Now playing — Semua Aku Dirayakan" width="700" />
   </a>
   <br>
   <em>click to listen ♡</em>
