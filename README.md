@@ -7,6 +7,11 @@
 <img src="https://raw.githubusercontent.com/username/banner/main/pastel-wave-gradient.gif" width="100%" alt="soft pastel wave banner"/>
 
 💕 Hai, aku <span style="color:#ffc5d3;">Inas Samia Ashalina</span> 💕  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=30&duration=3000&pause=1000&color=FCA3B7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+💕;Let's+create+something+beautiful!" alt="Typing SVG" />
+</p>
+
 🌸 *Desainer Kreatif | Pencinta Estetika | Pemimpi Digital* 🌸  
 
 <p align="center">
