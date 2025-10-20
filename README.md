@@ -12,6 +12,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=30&duration=3000&pause=1000&color=FCA3B7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+💕;Let's+create+something+beautiful!" alt="Typing SVG" />
 </p>
 
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200"/>
+
 🌸 *Desainer Kreatif | Pencinta Estetika | Pemimpi Digital* 🌸  
 
 <p align="center">
