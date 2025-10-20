@@ -53,6 +53,16 @@
 
 ---
 
+<p align="center">
+  <a href="https://youtu.be/CptnLrdF3_E" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/Inoele/Inoel/main/assets/music-card.svg" alt="Now playing — Semua Aku Dirayakan" width="700" />
+  </a>
+  <br>
+  <em>click to listen ♡</em>
+</p>
+
+---
+
 ### 📈 Statistik GitHub-ku  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Inoele&show_icons=true&title_color=ffc5d3&text_color=f8a8b6&icon_color=fdb7c0&bg_color=141321&hide_border=true" width="49%"/>
